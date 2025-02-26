@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayAverageTest/..iml" filepath="$PROJECT_DIR$/ArrayAverageTest/..iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayUtils1/ArrayUtils1.iml" filepath="$PROJECT_DIR$/ArrayUtils1/ArrayUtils1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayUtils2/ArrayUtils2.iml" filepath="$PROJECT_DIR$/ArrayUtils2/ArrayUtils2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CISC 3130.iml" filepath="$PROJECT_DIR$/CISC 3130.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionUtils/CollectionUtils.iml" filepath="$PROJECT_DIR$/CollectionUtils/CollectionUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generified/Generified.iml" filepath="$PROJECT_DIR$/Generified/Generified.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenerifiedBounded/GenerifiedBounded.iml" filepath="$PROJECT_DIR$/GenerifiedBounded/GenerifiedBounded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_1/Homework_1.iml" filepath="$PROJECT_DIR$/Homework_1/Homework_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IterableBoundedList/IterableBoundedList.iml" filepath="$PROJECT_DIR$/IterableBoundedList/IterableBoundedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListUtils/ListUtils.iml" filepath="$PROJECT_DIR$/ListUtils/ListUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SrtringBoundedListMain/SrtringBoundedListMain.iml" filepath="$PROJECT_DIR$/SrtringBoundedListMain/SrtringBoundedListMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentSorter/StudentSorter.iml" filepath="$PROJECT_DIR$/StudentSorter/StudentSorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestingGround/TestingGround.iml" filepath="$PROJECT_DIR$/TestingGround/TestingGround.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testReversed/testReversed.iml" filepath="$PROJECT_DIR$/testReversed/testReversed.iml" />
+    </modules>
+  </component>
+</project>
